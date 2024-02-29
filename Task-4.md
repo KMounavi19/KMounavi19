@@ -5,7 +5,7 @@ The C code should undergo the simulation of normal GCC X86 Compiler and riscv co
 AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)
 ![WhatsApp Image 2024-02-28 at 10 45 01 PM](https://github.com/KMounavi19/KMounavi19/assets/160726381/ff5d441b-823d-488d-b724-ebbb1003156c)
 
-Step - 1:Run the code in the normal GCC Compiler To compile the code: gcc sum1ton.c -o sum1ton To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
+Step - 1:Run the code in the normal GCC Compiler To compile the code: gcc sum1ton.c -o sum1ton To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250   
 
 Step - 2: To Run the code in the RISC-V GCC Compiler
 
