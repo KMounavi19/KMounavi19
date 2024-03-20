@@ -8,7 +8,7 @@ iverilog abdul.v abdul_tb.v - to simulate the verilog code and to check the erro
 
 ./a.out - to get the output and make vcd file to be ready open
 
-![Screenshot from 2024-03-20 14-40-22](https://github.com/KMounavi19/KMounavi19/assets/160726381/942274a4-b03b-4fe1-966e-9ecc0ac32098)
+
 after running the command gtkwave mounavi.vcd
 ![Screenshot from 2024-03-20 13-59-17](https://github.com/KMounavi19/KMounavi19/assets/160726381/b0a4e65e-f72e-4652-bb3c-2ed72200f77a)
 Lets move on to the execution Stage with Waveforms obtained for running the gtkwave mounavi.vcd
